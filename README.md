@@ -4,7 +4,7 @@
 **English:**
 Threat modeling is the process of identifying, understanding, and prioritizing potential security threats to a system or organization, and finding ways to reduce or stop them before they happen.
 
-**Roman Urdu:**
+**Urdu:**
 Threat modeling ek process hai jisme hum possible security threats ko identify (pehchante) hain, unka analysis karte hain, aur unko kam ya khatam karne ke liye plan banate hain.
 
 ## Factors Involved in Threat Modeling
@@ -48,6 +48,7 @@ OCTAVE – Risk-based approach focusing on organization’s security needs.
 Attack Trees – Diagram showing how attacks could be carried out.
 
 VAST – Visual, Agile, and Simple Threat modeling for DevOps environments.
+
 **Urdu:**
 
 STRIDE – Threat types ka breakdown (Spoofing, Tampering, etc.)
